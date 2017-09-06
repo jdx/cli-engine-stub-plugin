@@ -3,5 +3,8 @@
   "version": "1.0.2",
   "files": [
     "index.js"
-  ]
+  ],
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
 }
